@@ -1,9 +1,5 @@
 ## 👋 안녕하세요! 한 코의 정성으로 견고한 시스템을 만드는 개발자, 이현지입니다.
 
-> **"단 한 코의 실수가 편물 전체의 불균형으로 이어지듯, 코드 한 줄이 시스템 전반에 미치는 무게감을 인지하며 개발합니다."**
-
-저는 오류의 근본 원인을 끝까지 추적해 해결하는 **집요함**과 예기치 못한 결함 상황에서도 과업을 완수해 내는 **세밀한 집중력**을 핵심 자산으로 삼고 있습니다.
-
 ---
 
 ### 🔍 About Me
@@ -48,9 +44,3 @@
 **Backend** ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
-
-### 📈 Technical Strength
-* **Type-Safe Environment:** Generic 인터페이스를 활용한 API 응답 처리로 런타임 에러 방지
-* **UX Optimization:** Skeleton UI와 스피너를 분리 적용하여 화면 깜빡임 없는 데이터 갱신 경험 제공
-* **Performance Tuning:** useMemo, useCallback을 활용한 복잡한 연산 결과 재사용 및 리렌더링 차단
-* **Clean Code:** fetch API 커스텀 래핑(myFetch) 및 커스텀 훅 설계로 코드 중복 방지
